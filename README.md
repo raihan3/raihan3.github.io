@@ -2,7 +2,7 @@
 
 Software Engineer, boring as hell, loves long walks, hikes and exploring different cities.
 
-An avid snooker and Cricket and Netflix fan. 
+An avid snooker, Cricket and Netflix fan. 
 
 I am currently working as a Software Engineer at American Express on the Accounts Receivable platform and contributing towards the MARS project which will mordernise AR across Amex globally.
 I started my career as a Graduate Java Developer at Barclays in the API team, where I delivered a couple of changes to the Barclaycard API's.
