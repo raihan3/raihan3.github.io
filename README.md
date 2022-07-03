@@ -1,8 +1,8 @@
 ### Mohammad Raihan
 
-Software Engineer, boring as hell, one of those odd fellows who loves the indoors more than the outdoors.
+Software Engineer, boring as hell, loves long walks, hikes and exploring different cities.
 
-Love snooker, Cricket, Netflix and a big fan of GOT.
+An avid snooker and Cricket and Netflix fan. 
 
 I am currently working as a Software Engineer at American Express on the Accounts Receivable platform and contributing towards the MARS project which will mordernise AR across Amex globally.
 I started my career as a Graduate Java Developer at Barclays in the API team, where I delivered a couple of changes to the Barclaycard API's.
